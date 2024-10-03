@@ -12,7 +12,7 @@ require(config .. "_treesitter")
 require(config .. "_lsp")
 
 -- Load Autocompletion Settings.
-require(config .. "_cmp")
+--require(config .. "_cmp")
 
 -- Load File Tree Settings.
 --require(config .. "_nvimtree")
